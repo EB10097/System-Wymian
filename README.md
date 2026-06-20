@@ -6,6 +6,7 @@ Aplikacja webowa umożliwiająca użytkownikom wystawianie ogłoszeń i wymianę
 
 - Next.js 16 (App Router)
 - PostgreSQL (Supabase)
+- Vercel
 - JWT (autoryzacja)
 
 ## Testy
