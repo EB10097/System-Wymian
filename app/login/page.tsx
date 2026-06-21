@@ -45,7 +45,7 @@ function LoginForm() {
     return (
         <div className="min-h-screen flex items-center justify-center bg-gray-50 px-4">
             <div className="w-full max-w-md bg-white rounded-2xl shadow p-8">
-                <h1 className="text-2xl font-bold text-black mb-6">Logowani</h1>
+                <h1 className="text-2xl font-bold text-black mb-6">Logowanie</h1>
 
                 {error && (
                     <div className="mb-4 rounded-lg bg-red-50 border border-red-200 px-4 py-3 text-sm text-red-700">
