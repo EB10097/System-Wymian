@@ -10,7 +10,7 @@ export default async function HomePage() {
             <Navbar session={session} />
             <main className="max-w-4xl mx-auto px-6 py-16 text-center">
                 <h1 className="text-4xl font-bold text-black mb-4">
-                    Wymień się z innymi
+                    Wymień się z innymi!
                 </h1>
                 <p className="text-lg text-black mb-8">
                     Dodaj ogłoszenie i znajdź kogoś chętnego do wymiany przedmiotów.
